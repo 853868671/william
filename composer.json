@@ -1,0 +1,25 @@
+{
+    "name": "853868671/william",
+    "description": "php log",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "william",
+            "email": "a853868671@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9"
+        },
+    "autoload": {
+        "files": [
+            "src/Function/function.php"
+        ],
+
+        "psr-4": {
+            "WWD\\": "src/"
+        }
+    }     
+
+}
