@@ -1,6 +1,6 @@
 <?php
 
-function dp($data,$bool=true){
+function dop($data,$bool=true){
     echo '<pre>';
     if($bool){
         var_dump($data);
