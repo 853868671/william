@@ -2,7 +2,7 @@
 
 # 安装 install
 
-## comoser require "853868671/william":"dev-master"
+		comoser require "853868671/william":"dev-master"
 
 # 日志代码事例
 
@@ -23,7 +23,7 @@
 
 		Log::write('SQL：SQL语句 注意只在调试模式开启时有效',Log::SQL);
 
-# 加密解密事例	
+# 加密解密事例	加密方式Base64,Crype,Des,Xxtea
 
 		$crypt = Crypt::getInstance('crypt');
 
