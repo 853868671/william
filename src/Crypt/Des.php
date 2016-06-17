@@ -3,9 +3,6 @@ namespace WWD\Crypt;
 
 /**
  * Des 加密实现类
- * Converted from JavaScript to PHP by Jim Gibbs, June 2004 Paul Tero, July 2001
- * Optimised for performance with large blocks by Michael Hayworth, November 2001
- * http://www.netdealing.com
  */
 
 class Des

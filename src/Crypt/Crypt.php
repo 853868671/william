@@ -3,10 +3,6 @@ namespace WWD\Crypt;
 
 /**
  * Crypt 加密实现类
- * @category   ORG
- * @package  ORG
- * @subpackage  Crypt
- * @author    liu21st <liu21st@gmail.com>
  */
 class Crypt
 {
